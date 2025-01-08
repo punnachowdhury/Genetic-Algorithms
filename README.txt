@@ -1,7 +1,6 @@
 Punna Chowdhury
 October 28, 2024
-CS 131 - Artificial Intelligence
-Professor Fabrizio Santini 
+
 
 Instructions:
 - Please run `boxes.py` first to define the boxes with their weights and importance values, respectively.
