@@ -3,6 +3,7 @@ Punna Chowdhury
 October 28, 2024
 
 
+
 **Instructions**:
 - Please run `boxes.py` first to define the boxes with their weights and importance values, respectively.
 - Then, run `main.py` to execute the genetic algorithm, which contains all parameters, assumptions, and the main solution for the knapsack problem.
