@@ -1,15 +1,16 @@
 Punna Chowdhury
+
 October 28, 2024
 
 
-Instructions:
+**Instructions**:
 - Please run `boxes.py` first to define the boxes with their weights and importance values, respectively.
 - Then, run `main.py` to execute the genetic algorithm, which contains all parameters, assumptions, and the main solution for the knapsack problem.
 
-Dependencies Used:
+**Dependencies Used**:
 - `random` is used for generating initial population genomes, selecting parents for reproduction, applying mutation, and selecting candidates in the tournament selection process.
 
-Methodology and Assumptions:
+**Methodology and Assumptions**:
 - **Genetic Algorithm**:
   - A genetic algorithm uses randomized heuristic search strategy that uses a natural selection metaphor to find the best solution. 
   - For this problem, the goal is to maximize the total importance (value) of selected boxes without exceeding the knapsack's weight limit (250 lbs).
